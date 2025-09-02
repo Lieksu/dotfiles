@@ -15,7 +15,3 @@ function nvf
         | fzf --preview 'bat --color=always {}' --print0 \
         | xargs -0 -o nvim
 end
-
-function nvwork --description "Open Neovim with workspace layout"
-    nvim -c 'lua require("workspace").open()'
-end
