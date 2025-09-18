@@ -2,7 +2,6 @@ theme = nord
 font-family = SF Mono
 font-size = 15
 font-thicken
-command = /opt/homebrew/bin/fish --login --interactive
 
 macos-option-as-alt = left
 
