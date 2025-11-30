@@ -1,10 +1,6 @@
 theme = nord
-font-family = SF Mono
+font-family = SF Mono Nerd
 font-size = 15
 font-thicken
 
-macos-option-as-alt = left
-
-keybind = alt+left=unbind
-keybind = alt+right=unbind
 window-save-state = always
