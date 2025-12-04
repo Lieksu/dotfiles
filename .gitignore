@@ -4,4 +4,5 @@
 !/.gitignore
 !/ghostty/
 !/nvim/
+!/zed/
 .DS_Store
